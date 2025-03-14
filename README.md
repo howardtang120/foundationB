@@ -1,2 +1,2 @@
 # foundationB
-uni adelaide foundation B stuff
+Uni adelaide foundation B stuff

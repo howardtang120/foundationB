@@ -1,2 +1,2 @@
 git add .
-git commit
+git commit -m "a commit"

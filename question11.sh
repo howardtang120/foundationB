@@ -1,4 +1,4 @@
-git branch -b branch2
+git checkout -b branch2
 touch file4
 git commit -a -m "add and commit"
 echo "some changes" >> file4
